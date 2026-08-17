@@ -1,0 +1,101 @@
+order_id,order_date,customer_id,customer_name,product_category,product_name,product_price,quantity,total_amount,payment_method
+10001,2026-05-03,2410,Kyle Bishop,Engine Parts,Oil Filter,2482.2,7,17375.4,Card
+10002,2026-03-30,9234,Ricky Scott,Engine Parts,Timing Belt,3363.12,1,3363.12,Card
+10003,2026-04-25,1342,Donald Sosa,Interior,Seat Cover,1436.42,7,10054.94,COD
+10004,2025-12-11,4417,Eric Bradford,Interior,Floor Mat,3276.09,10,32760.9,COD
+10005,2026-08-08,3207,Adam Hall,Suspension,Coil Spring,2789.51,7,19526.57,Wallet
+10006,2026-08-14,9466,Jodi Wilson,Engine Parts,Timing Belt,1718.88,4,6875.52,COD
+10007,2025-12-22,7018,Cristina Hernandez,Interior,Seat Cover,2840.81,6,17044.86,UPI
+10008,2026-04-12,1970,Robert Mcmahon,Brake System,Brake Pad,4707.03,2,9414.06,UPI
+10009,2025-12-04,4796,Jennifer Fox,Brake System,Brake Disc,3984.19,10,39841.9,Wallet
+10010,2025-10-01,9208,Matthew Leon,Suspension,Coil Spring,1096.66,6,6579.96,COD
+10011,2026-03-05,1771,Margaret Smith,Electrical,Alternator,4874.46,10,48744.6,Wallet
+10012,2026-05-25,8541,Angela Lamb,Engine Parts,Spark Plug,1292.06,9,11628.54,COD
+10013,2026-07-16,1967,Allison Hardy,Electrical,Alternator,1146.87,8,9174.96,UPI
+10014,2026-02-11,4941,Shannon Rodriguez,Suspension,Shock Absorber,3701.64,1,3701.64,Card
+10015,2025-10-08,9032,Elizabeth Armstrong,Electrical,Headlight Bulb,2221.52,6,13329.12,Wallet
+10016,2026-03-29,7518,Katelyn Bond,Electrical,Headlight Bulb,4102.28,3,12306.84,COD
+10017,2026-01-13,2770,Harold Harper,Suspension,Coil Spring,1180.09,2,2360.18,UPI
+10018,2026-06-28,4017,Ashlee Lee,Electrical,Headlight Bulb,1670.67,4,6682.68,Card
+10019,2026-06-08,1370,Morgan Smith,Suspension,Control Arm,1547.66,2,3095.32,Wallet
+10020,2025-10-18,3427,Victoria Bailey MD,Interior,Seat Cover,1060.27,9,9542.43,UPI
+10021,2026-06-06,1253,Jimmy Thomas,Electrical,Battery,4465.69,6,26794.14,COD
+10022,2026-01-20,2896,Jason Anderson,Suspension,Coil Spring,4027.95,9,36251.55,UPI
+10023,2026-04-14,5480,Jason Jones,Engine Parts,Oil Filter,4808.05,9,43272.45,COD
+10024,2026-05-26,9706,Mrs. Desiree Weiss,Suspension,Coil Spring,3194.31,1,3194.31,Card
+10025,2025-12-14,4140,Joshua Rodriguez,Engine Parts,Timing Belt,2860.52,2,5721.04,UPI
+10026,2026-01-11,1485,Gregory Duke,Engine Parts,Oil Filter,2921.18,6,17527.08,COD
+10027,2025-12-18,8177,Thomas Jenkins,Interior,Floor Mat,4425.63,4,17702.52,UPI
+10028,2026-02-19,5613,Lori Mckinney,Brake System,Brake Disc,1066.26,6,6397.56,Wallet
+10029,2025-09-08,5435,Lisa Johnson,Electrical,Battery,4572.54,4,18290.16,Card
+10030,2026-07-20,9048,Alicia Williams,Interior,Steering Wheel Cover,4043.77,2,8087.54,Wallet
+10031,2026-06-06,6333,Victor Thomas,Electrical,Headlight Bulb,664.13,3,1992.39,Wallet
+10032,2025-09-07,5033,David Anderson,Engine Parts,Timing Belt,3614.65,9,32531.85,Card
+10033,2026-07-23,9349,Melissa Robinson,Electrical,Battery,4263.77,8,34110.16,Wallet
+10034,2025-08-24,2229,Joanna Bradshaw,Suspension,Control Arm,1790.78,6,10744.68,COD
+10035,2026-05-19,4383,Geoffrey Waters,Interior,Seat Cover,3388.11,8,27104.88,Card
+10036,2026-02-12,5466,Ms. Alexis Cardenas,Suspension,Coil Spring,2585.31,10,25853.1,Wallet
+10037,2026-03-17,1709,Kevin Carlson,Interior,Floor Mat,3010.68,10,30106.8,UPI
+10038,2026-07-29,4685,Samuel Williams,Brake System,Brake Disc,3155.66,2,6311.32,Wallet
+10039,2025-11-29,9656,Tiffany Sanders,Electrical,Headlight Bulb,4917.94,6,29507.64,COD
+10040,2026-01-11,1325,Dr. Sean Glenn Jr.,Electrical,Headlight Bulb,3767.72,6,22606.32,Wallet
+10041,2025-11-24,7177,Michael Schneider,Interior,Seat Cover,3238.22,9,29143.98,COD
+10042,2026-07-16,7597,Kara Simpson,Interior,Steering Wheel Cover,4266.35,4,17065.4,Card
+10043,2026-07-30,5756,Sue Parker,Suspension,Control Arm,4067.35,3,12202.05,COD
+10044,2026-06-20,5625,Michael Foley,Interior,Steering Wheel Cover,1135.06,4,4540.24,UPI
+10045,2025-08-25,9513,Michelle Wagner,Engine Parts,Oil Filter,1796.5,3,5389.5,Wallet
+10046,2026-01-25,2368,Scott Hudson,Electrical,Headlight Bulb,905.84,5,4529.2,Card
+10047,2026-07-29,9838,Tony Jarvis,Interior,Floor Mat,1965.4,9,17688.6,Card
+10048,2026-02-10,5518,Erica Maldonado,Suspension,Coil Spring,4675.21,5,23376.05,Card
+10049,2026-07-01,8713,Charles Brennan,Engine Parts,Spark Plug,3150.19,3,9450.57,UPI
+10050,2026-01-30,4211,Monica Hickman,Suspension,Coil Spring,4393.56,1,4393.56,Wallet
+10051,2026-01-08,6057,Dwayne Gregory,Suspension,Control Arm,1658.34,6,9950.04,Card
+10052,2026-01-15,5012,Jonathan Rodgers,Brake System,Brake Fluid,1905.93,7,13341.51,Wallet
+10053,2025-11-26,5575,Sonya Marshall,Electrical,Headlight Bulb,3109.03,7,21763.21,Card
+10054,2026-05-18,3791,Benjamin Armstrong,Engine Parts,Spark Plug,2595.05,6,15570.3,UPI
+10055,2026-01-29,5224,Garrett Reid,Electrical,Headlight Bulb,4993.85,5,24969.25,UPI
+10056,2025-12-07,5880,Donald Haynes,Engine Parts,Timing Belt,3017.64,7,21123.48,Card
+10057,2026-03-15,5692,Lindsay Bass,Suspension,Coil Spring,3931.71,6,23590.26,Card
+10058,2025-10-28,3008,Corey Roth,Engine Parts,Spark Plug,2622.41,10,26224.1,Wallet
+10059,2026-03-06,9714,Anna Evans,Electrical,Alternator,1657.76,2,3315.52,Wallet
+10060,2026-04-24,1856,Richard Meyer,Suspension,Control Arm,4371.44,6,26228.64,UPI
+10061,2026-08-10,5036,Richard Trevino,Engine Parts,Oil Filter,4752.92,10,47529.2,UPI
+10062,2026-06-19,2764,Rebecca Turner,Engine Parts,Spark Plug,4939.82,1,4939.82,COD
+10063,2025-10-25,7877,Lauren Burns,Engine Parts,Oil Filter,733.12,5,3665.6,Wallet
+10064,2026-05-21,8890,Tony Johnson,Engine Parts,Spark Plug,4491.56,2,8983.12,UPI
+10065,2026-02-21,8737,Sarah Keith,Brake System,Brake Pad,3883.81,4,15535.24,COD
+10066,2026-01-31,7955,Brandy Young,Engine Parts,Oil Filter,905.5,8,7244.0,Wallet
+10067,2026-02-17,7181,Jeffrey Carroll,Suspension,Control Arm,3427.45,9,30847.05,Card
+10068,2026-03-27,3931,Courtney Chavez,Suspension,Shock Absorber,3635.9,2,7271.8,COD
+10069,2026-07-23,5859,Nicholas Reed,Electrical,Battery,625.26,5,3126.3,COD
+10070,2025-09-09,6210,Lynn Esparza,Brake System,Brake Fluid,4938.85,5,24694.25,UPI
+10071,2026-04-16,4311,Miguel Osborne,Suspension,Shock Absorber,1328.44,10,13284.4,COD
+10072,2026-08-12,1055,Yolanda Vasquez,Suspension,Control Arm,2157.77,8,17262.16,UPI
+10073,2025-11-07,7000,Brandy Mendez,Engine Parts,Timing Belt,4073.85,5,20369.25,Wallet
+10074,2025-09-11,3229,Christina Davis,Interior,Floor Mat,1602.31,4,6409.24,UPI
+10075,2026-01-10,5243,Aaron Jackson,Engine Parts,Spark Plug,3958.21,8,31665.68,UPI
+10076,2026-06-07,3456,Kirk Moore,Engine Parts,Timing Belt,2361.78,2,4723.56,UPI
+10077,2026-06-20,6089,Ryan Nicholson,Electrical,Headlight Bulb,1749.65,6,10497.9,Wallet
+10078,2026-02-13,2551,Clinton Anderson,Suspension,Shock Absorber,2760.51,3,8281.53,Card
+10079,2025-11-23,6384,Gregory Burch,Electrical,Alternator,4515.99,1,4515.99,Wallet
+10080,2025-12-12,9459,Robert Frederick,Interior,Seat Cover,2348.44,6,14090.64,COD
+10081,2026-04-18,3683,Cathy George,Engine Parts,Spark Plug,3361.07,3,10083.21,UPI
+10082,2026-02-28,6025,Judy Rojas,Suspension,Control Arm,2869.78,9,25828.02,COD
+10083,2025-10-19,4869,Sharon Walls,Electrical,Battery,1815.02,7,12705.14,Card
+10084,2025-10-29,9319,Janet Simpson,Engine Parts,Timing Belt,2406.25,5,12031.25,Card
+10085,2025-12-11,7526,Danielle Ayers,Interior,Seat Cover,2690.98,7,18836.86,UPI
+10086,2026-07-16,3952,Elizabeth Page,Brake System,Brake Fluid,1132.45,3,3397.35,UPI
+10087,2026-08-05,9500,Hailey Velez,Electrical,Alternator,1088.31,4,4353.24,Card
+10088,2026-02-02,5449,Johnny Combs,Interior,Steering Wheel Cover,3464.6,5,17323.0,Card
+10089,2026-02-14,7579,Elizabeth Martinez,Brake System,Brake Disc,3456.34,8,27650.72,UPI
+10090,2025-11-17,5926,Joshua Reese,Engine Parts,Oil Filter,4675.08,3,14025.24,Card
+10091,2026-04-09,2454,Corey Rodriguez,Engine Parts,Timing Belt,2885.13,2,5770.26,Wallet
+10092,2026-07-08,9124,Angel Sanders,Electrical,Headlight Bulb,1812.93,5,9064.65,Card
+10093,2026-08-15,8317,Carl Ramirez,Electrical,Alternator,3840.61,5,19203.05,Card
+10094,2025-10-26,4137,John Bennett,Electrical,Battery,3135.56,5,15677.8,COD
+10095,2026-03-13,8563,Haley Powers,Interior,Seat Cover,2191.16,3,6573.48,UPI
+10096,2026-02-18,5201,Hannah Buck,Suspension,Coil Spring,2990.06,7,20930.42,COD
+10097,2026-06-27,3638,Mr. Cody Johnson,Electrical,Headlight Bulb,4876.05,4,19504.2,Wallet
+10098,2025-12-23,4526,David Cole,Electrical,Headlight Bulb,904.66,5,4523.3,Wallet
+10099,2026-03-01,2707,Robyn Smith,Electrical,Battery,4293.16,10,42931.6,Wallet
+10100,2025-11-19,3436,Bobby Barajas,Electrical,Battery,653.69,9,5883.21,Wallet
